@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @naveenchinthana.
-- 👀 I’m interested in vanilla coding.
-- 🌱 I’m currently learning functional programming.
+Don't be infatuated with me, I'm just a Customer Service Representative. 😎
 
 <!---
 naveenchinthana/naveenchinthana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
